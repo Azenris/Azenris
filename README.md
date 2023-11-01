@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Azenris/Azenris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Profile 💾
+- 🌱 Just wanted to make this readme as a test.
+- 🖥 Demos: 2 nds and a pc demo at [Itch.io](https://azenris.itch.io/).
+- 💽 Currently working on my game.
+- 🎮 I'm writing my current game in C++, but I also know GameMaker.
+- Most wholesome viewer at twitch streams
+  - 📙 [cakez77](https://www.twitch.tv/cakez77)
+  - 📓 [tkap1](https://www.twitch.tv/tkap1)
+  - 📖 [coffee_lava](https://www.twitch.tv/coffee_lava)
+  - 📚 [athano](https://www.twitch.tv/athano)
